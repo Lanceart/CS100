@@ -1,0 +1,3 @@
+/home/csmajs/lli244/lab11/CMakeFiles/rebuild_cache.dir
+/home/csmajs/lli244/lab11/CMakeFiles/edit_cache.dir
+/home/csmajs/lli244/lab11/CMakeFiles/area_calculator.dir
